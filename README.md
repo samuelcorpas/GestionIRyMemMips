@@ -1,6 +1,6 @@
 # 🧠 Gestión de Memoria e IRQ en MIPS 🚀
 
-**AUTORES: SAMUEL CORPAS PUERTO y DANIEL SALAS SAYAS
+AUTORES: SAMUEL CORPAS PUERTO y DANIEL SALAS SAYAS
 
 Proyecto académico enfocado en el diseño y simulación de componentes para la arquitectura MIPS en VHDL, integrando gestión de memoria e interrupciones (IRQ).
 
